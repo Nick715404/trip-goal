@@ -1,0 +1,32 @@
+
+:root {
+  /*_____colors_____*/
+  --blue: #3685FB;
+  --blue-hover: #275fb4;
+  --white: #fff;
+  --dark-white: #F8F8F8;
+  --black: #000;
+  --dark-blue: #002248;
+  --light-blue: #00B3A0;
+  --paragrapgh: #697687;
+
+  /*______titles______*/
+  --h1: 58px;
+  --h2: 42px;
+  --h3: 20px;
+  --h4: 16px;
+
+  /*_____text_____*/
+  --p-big: 18px;
+  --p-reg: 16px;
+  --p-small: 14px;
+
+  /*______line-height______*/
+  --lh72: 72px;
+  --lh52: 52px;
+  --lh28: 28px;
+  --lh25: 25px;
+  --lh20: 20px;
+  --lh18: 18px;
+  --lh16: 16px;
+}
